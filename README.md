@@ -2,12 +2,13 @@ Hey👋🏼 I'm Hovhannes, a full-stack engineer, who is passionate about web3 a
 
 🚀My software development tech stack mainly includes:
 
-**Programming language**: Rust, Solidity, C# (.Net Framework and .Net Core), C++
-**Blockchain**: Solana, Ethereum, Polkadot, Fantom 
-**Rust tools**: Cargo, Rustfmt, Clippy, VIM, ATOM, EMACS
-**RDBMS**: SQL Server
-**Scripting language**: JavaScript, JQuery and NodeJS
-**Client-side framework**: ReactJS, Redux, Angular, VueJS
-**Web Development framework**: .Net Core, .Net Core MVC, .Net Core Razor Pages, Asp.Net MVC. 
-**Webservice/Web API**: ASP.Net Web API, ASP.Net Core Web API, GraphQL
-**Version Controller**: SVN, GIT, TFS
+**Programming language**: C# (.Net Framework and .Net Core), Javascript, Python, Rust, Solidity, C++\
+**Blockchain**: Solana, Ethereum, AVAX, Polkadot, Fantom\
+**RDBMS**: SQL Server, MySQL, PostgreSQL, Mongo\
+**Scripting language**: JavaScript, Typescript\
+**Markup**: HTML, CSS, SASS, LESS, Bootstrap\
+**Client-side framework**: ReactJS, Angular, VueJS, Knockout\
+**Component Libraries**: Material, ReactStrap, Antd, PrimeNG, Vuetify\
+**Web Development framework**: .Net Core Razor Pages, Express.js, Koa.js, Nest.js\
+**Webservice/Web API**: ASP.Net Core Web API, Node.js, Rails, Django, Flask\
+**Version Controller**: GIT, TFS, SVN
