@@ -1,16 +1,13 @@
-### Hi there 👋
+Hey👋🏼 I'm Hovhannes, a full-stack engineer, who is passionate about web3 and coding. I have graduated with my Bachelor's degree in Computer Science. I’m specialized in building pixel-perfect design, aesthetic, and clean user interfaces, with a focus on user experience and interaction. I’m also working with databases and APIs, writing clear backend logic, and third-party integration. Additionally, I have experience with developing SPA applications with SSR and CI/CDs.
 
-<!--
-**Shitikyan/Shitikyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀My software development tech stack mainly includes:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming language**: Rust, Solidity, C# (.Net Framework and .Net Core), C++
+**Blockchain**: Solana, Ethereum, Polkadot, Fantom 
+**Rust tools**: Cargo, Rustfmt, Clippy, VIM, ATOM, EMACS
+**RDBMS**: SQL Server
+**Scripting language**: JavaScript, JQuery and NodeJS
+**Client-side framework**: ReactJS, Redux, Angular, VueJS
+**Web Development framework**: .Net Core, .Net Core MVC, .Net Core Razor Pages, Asp.Net MVC. 
+**Webservice/Web API**: ASP.Net Web API, ASP.Net Core Web API, GraphQL
+**Version Controller**: SVN, GIT, TFS
