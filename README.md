@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Web3, React, .NET, Angular, React**
 
-- 📫 How to reach me **hovhannes.shitikyan@solicy.net**
+- 📫 How to reach me **shitikyan@gmail.com**
 
 - ⚡ Fun fact **I'm 24/7 Blues listener**
 
