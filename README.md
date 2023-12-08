@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shitikyan](https://github.com/Shitikyan)
 
-- 💬 Ask me about **Web3, React, .NET, Angular, React**
+- 💬 Ask me about **Web3, React, .NET, Angular, React, Vue, Swift, Kotlin **
 
-- 📫 How to reach me **shitikyan@gmail.com**
+- 📫 How to reach me **shitikyan.hovhannes@gmail.com**
 
 - ⚡ Fun fact **I'm 24/7 Blues listener**
 
