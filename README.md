@@ -21,7 +21,7 @@
         >
       </li>
       <li>
-        💬 Ask me about Web3, React, .NET, Angular, React, Vue, Swift, Kotlin
+        💬 Ask me about Web3, Python, React, .NET, Angular, React, Vue, Swift, Kotlin
       </li>
       <li>📫 How to reach me shitikyan.hovhannes@gmail.com</li>
       <li>⚡️ Fun fact I'm 24/7 Blues listener</li>
