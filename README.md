@@ -23,7 +23,7 @@
       <li>
         💬 Ask me about Web3, Python, React, .NET, Angular, React, Vue, Swift, Kotlin
       </li>
-      <li>📫 How to reach me shitikyan.hovhannes@gmail.com</li>
+      <li>📫 How to reach me Shitikyan@gmail.com</li>
       <li>⚡️ Fun fact I'm 24/7 Blues listener</li>
     </ul>
     <h3 align="left">Connect with me:</h3>
