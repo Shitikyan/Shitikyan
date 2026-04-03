@@ -1,31 +1,45 @@
-<h1 align="center">Hi 👋, I'm Hovhannes</h1>
-    <h3 align="center">A passionate hardcoder from Decentralized World</h3>
-    <p align="left">
-      <img
-        src="https://komarev.com/ghpvc/?username=shitikyan&label=Profile%20views&color=0e75b6&style=flat"
-        alt="shitikyan"
-      />
-    </p>
-    <p align="left">
-      <a href="https://twitter.com/hshitikyan" target="blank"
-        ><img
-          src="https://img.shields.io/twitter/follow/hshitikyan?logo=twitter&style=for-the-badge"
-          alt="hshitikyan"
-      /></a>
-    </p>
-    <ul>
-      <li>
-        👨‍💻 All of my projects are available at
-        <a href="https://github.com/Shitikyan" target="_blank"
-          >https://github.com/Shitikyan</a
-        >
-      </li>
-      <li>
-        💬 Ask me about Web3, Python, React, .NET, Angular, React, Vue, Swift, Kotlin
-      </li>
-      <li>📫 How to reach me Shitikyan@gmail.com</li>
-      <li>⚡️ Fun fact I'm 24/7 Blues listener</li>
-    </ul>
+<h1>🚀 What I Build</h1>
+
+<p>
+I design and ship <b>production-grade AI systems</b> and <b>blockchain infrastructure</b> — the kind that holds up at scale, not just in demos.
+</p>
+
+<p>
+With <b>9+ years of engineering experience</b>, I have worked across the full stack of modern AI and Web3:
+<br/>
+from fine-tuning LLM pipelines and building RAG architectures,
+<br/>
+to deploying smart contracts and DeFi platforms for real users.
+</p>
+
+<p>
+<b>If you need something built right the first time, let's talk.</b>
+</p>
+
+
+<h2>🧠 Expertise</h2>
+
+<h3>🤖 AI & LLMs</h3>
+<ul>
+  <li>⚡ Agentic AI workflows & multi-agent orchestration</li>
+  <li>📚 Retrieval-Augmented Generation (RAG) pipelines</li>
+  <li>🔗 LangChain, LlamaIndex, vector DBs (Pinecone, Weaviate, Chroma)</li>
+  <li>🧪 Prompt engineering, fine-tuning, LLM evaluation</li>
+</ul>
+
+<h3>⛓️ Blockchain & Web3</h3>
+<ul>
+  <li>🛠️ Smart contracts — Solidity, Rust</li>
+  <li>🌐 dApps, DeFi platforms, wallet integrations</li>
+  <li>🔷 Ethereum & EVM-compatible chains</li>
+</ul>
+
+<h3>⚙️ Backend & Infrastructure</h3>
+<ul>
+  <li>🏗️ Distributed systems & scalable API design</li>
+  <li>📐 Spec-driven development & system architecture</li>
+  <li>💻 Python, Node.js, Go, .NET</li>
+</ul>
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a
@@ -663,17 +677,4 @@
         />
       </a>
     </p>
-    <p>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=shitikyan&show_icons=true&locale=en&layout=compact"
-        alt="shitikyan"
-      />
-    </p>
-    <p>
-      &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=shitikyan&show_icons=true&locale=en"
-        alt="shitikyan"
-      />
-    </p>
+   
