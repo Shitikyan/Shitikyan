@@ -43,7 +43,7 @@ to deploying smart contracts and DeFi platforms for real users.
     <h3 align="left">Connect with me:</h3>
     <p align="left">
       <a
-        href="https://twitter.com/hshitikyan"
+        href="https://x.com/Shitikyan"
         target="blank"
         style="text-decoration: none !important"
         ><img
